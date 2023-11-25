@@ -21,15 +21,15 @@
 ## Awards
 
 - 2021年电信杯全国电子设计大赛华南理工大学校内赛二等奖([pdf](./assets/awards.1.pdf))
-- 2022年电信杯电子设计大赛广州市五校联赛优胜奖
-- MICCAI2023 Challenge. Liver Lesion Diagnosis on Multi-phase MRI 2023. 1st Place
+- 2022年电信杯电子设计大赛广州市五校联赛优胜奖([pdf](./assets/awards.2.pdf))
+- MICCAI2023 Challenge. Liver Lesion Diagnosis on Multi-phase MRI 2023. 1st Place([pdf](./assets/awards.3.miccai2023.pdf))
 ## Patents
 
 - 
 
 ## Copyrights
 
-- 在线学习状态分析系统V1.0. 华南理工大学.2023SR0992213.
+- 在线学习状态分析系统V1.0. 华南理工大学.2023SR0992213.([pdf](./assets/copyrights.1.2023SR0992213.pdf))
 
 ## Projects
 
