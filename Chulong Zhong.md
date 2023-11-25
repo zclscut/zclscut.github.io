@@ -43,3 +43,14 @@
 - 2022年度华南理工大学优秀共青团员
 
 <div class="foot">Last updated by Chulong Zhong on November,25,2023.</div>
+
+<style>
+h2 {color:#FF6600;}
+.foot {
+  margin-top: 50px;
+  border-top: 1px solid silver;
+  padding-top: 1px;
+  padding-left: 10px;
+  font-size: 12px;
+  font-style: italic;
+}</style>
