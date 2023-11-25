@@ -20,9 +20,9 @@
 
 ## Awards
 
-- 2021年电信杯全国电子设计大赛华南理工大学校内赛二等奖
+- 2021年电信杯全国电子设计大赛华南理工大学校内赛二等奖([pdf](./assets/awards.1.pdf))
 - 2022年电信杯电子设计大赛广州市五校联赛优胜奖
-- LLD-MMRI Challenge. Liver Lesion Diagnosis on Multi-phase MRI 2023. 1st Place
+- MICCAI2023 Challenge. Liver Lesion Diagnosis on Multi-phase MRI 2023. 1st Place
 ## Patents
 
 - 
